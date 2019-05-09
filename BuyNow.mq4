@@ -26,7 +26,7 @@ void OnStart()
    }
    else
    {
-      Alert("Order successfuly placed at!");
+      Alert("Order successfuly placed: ", Symbol());
    }
    return;
 }
