@@ -13,8 +13,8 @@
 //--- input parameters
 
 input double   LOTS     =  0.1;
-input uint     TP_PIPS  =  750;
-input uint     SL_PIPS  =  750;
+input uint     TP_PIPS  =  800;
+input uint     SL_PIPS  =  800;
 //+------------------------------------------------------------------+
 //| Script program start function                                    |
 //+------------------------------------------------------------------+

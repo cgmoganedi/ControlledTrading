@@ -9,9 +9,9 @@
 #property strict
 #property script_show_inputs
 //--- input parameters
-input double   LOTS=0.1;
-input int      TP_PIPS=750;
-input int      SL_PIPS=750;
+input double   LOTS     =  0.1;
+input int      TP_PIPS  =  800;
+input int      SL_PIPS  =  800;
 //+------------------------------------------------------------------+
 //| Script program start function                                    |
 //+------------------------------------------------------------------+
